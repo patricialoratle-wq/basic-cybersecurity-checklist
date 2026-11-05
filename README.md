@@ -1,0 +1,2 @@
+# basic-cybersecurity-checklist
+An easy ,actionable cybersecurity checklist for employees and individuals to secure the digital footprint.
